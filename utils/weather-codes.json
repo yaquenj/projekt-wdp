@@ -1,0 +1,142 @@
+[
+  {
+    "code": "0",
+    "description": "Bezchmurnie",
+    "image": 0
+  },
+  {
+    "code": "1",
+    "description": "Przeważnie bezchmurnie",
+    "image": 1
+  },
+  {
+    "code": "2",
+    "description": "Częściowo pochmurnie",
+    "image": 2
+  },
+  {
+    "code": "3",
+    "description": "Pochmurnie",
+    "image": 2
+  },
+  {
+    "code": "45",
+    "description": "Mgła",
+    "image": 3
+  },
+  {
+    "code": "48",
+    "description": "Mgła",
+    "image": 3
+  },
+  {
+    "code": "51",
+    "description": "Lekka mżawka",
+    "image": 4
+  },
+  {
+    "code": "53",
+    "description": "Mżawka",
+    "image": 4
+  },
+  {
+    "code": "55",
+    "description": "Gęsta mżawka",
+    "image": 4
+  },
+  {
+    "code": "56",
+    "description": "Marznąca mżawka",
+    "image": 5
+  },
+  {
+    "code": "57",
+    "description": "Marznąca mżawka",
+    "image": 5
+  },
+  {
+    "code": "61",
+    "description": "Lekki deszcz",
+    "image": 6
+  },
+  {
+    "code": "63",
+    "description": "Deszcz",
+    "image": 7
+  },
+  {
+    "code": "65",
+    "description": "Intensywny deszcz",
+    "image": 7
+  },
+  {
+    "code": "66",
+    "description": "Lekkie opady marznącego deszczu",
+    "image": 8
+  },
+  {
+    "code": "67",
+    "description": "Intensywne opady marznącego deszczu",
+    "image": 8
+  },
+  {
+    "code": "71",
+    "description": "Lekkie opady śniegu",
+    "image": 9
+  },
+  {
+    "code": "73",
+    "description": "Opady śniegu",
+    "image": 9
+  },
+  {
+    "code": "75",
+    "description": "Intensywne opady śniegu",
+    "image": 9
+  },
+  {
+    "code": "77",
+    "description": "Grad",
+    "image": 10
+  },
+  {
+    "code": "80",
+    "description": "Przelotne lekkie opady deszczu",
+    "image": 6
+  },
+  {
+    "code": "81",
+    "description": "Przelotne opady deszczu",
+    "image": 7
+  },
+  {
+    "code": "82",
+    "description": "Przelotne gwałtowne opady deszczu",
+    "image": 7
+  },
+  {
+    "code": "85",
+    "description": "Przelotne opady śniegu",
+    "image": 9
+  },
+  {
+    "code": "86",
+    "description": "Przelotne opady śniegu",
+    "image": 9
+  },
+  {
+    "code": "95",
+    "description": "Burza",
+    "image": 11
+  },
+  {
+    "code": "96",
+    "description": "Burza z gradem",
+    "image": 12
+  },
+  {
+    "code": "99",
+    "description": "Burza z gradem",
+    "image": 12
+  }
+]

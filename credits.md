@@ -1,0 +1,25 @@
+## Autorami pobranych przeze mnie ikon ze strony [FlatIcon](https://www.flaticon.com/) są:
+- Dla Ikony [clouds-and-sun.png](./media/clouds-and-sun.png) - [riajulislam](https://www.flaticon.com/authors/riajulislam) <img src="./media/clouds-and-sun.png" width="20">
+- Dla Ikony [sun.png](./media/sun.png) - [Freepik](https://www.flaticon.com/authors/freepik) <img src="./media/sun.png" width="20">
+- Dla Ikony [cloud.png](./media/cloud.png) - [Freepik](https://www.flaticon.com/authors/freepik) <img src="./media/cloud.png" width="20">
+- Dla Ikony [sun-behind-a-cloud.png](./media/sun-behind-a-cloud.png) - [Freepik](https://www.flaticon.com/authors/freepik) <img src="./media/sun-behind-a-cloud.png" width="20">
+- Dla Ikony [wind.png](./media/wind.png) - [Freepik](https://www.flaticon.com/authors/freepik) <img src="./media/wind.png" width="20">
+- Dla Ikony [heavy-rain.png](./media/heavy-rain.png) - [Freepik](https://www.flaticon.com/authors/freepik) <img src="./media/heavy-rain.png" width="20">
+- Dla Ikony [drizzle.png](./media/drizzle.png) - [Christ Design](https://www.flaticon.com/authors/christ-design) <img src="./media/drizzle.png" width="20">
+- Dla Ikony [snow.png](./media/snow.png) - [Freepik](https://www.flaticon.com/authors/freepik) <img src="./media/snow.png" width="20">
+- Dla Ikony [fog.png](./media/fog.png) - [Freepik](https://www.flaticon.com/authors/freepik) <img src="./media/fog.png" width="20">
+- Dla Ikony [storm.png](./media/storm.png) - [Freepik](https://www.flaticon.com/authors/freepik) <img src="./media/storm.png" width="20">
+- Dla Ikony [hot.png](./media/hot.png) - [Freepik](https://www.flaticon.com/authors/freepik) <img src="./media/hot.png" width="20">
+- Dla Ikony [cold.png](./media/cold.png) - [Freepik](https://www.flaticon.com/authors/freepik) <img src="./media/cold.png" width="20">
+- Dla Ikony [freezing_drizzle.png](./media/freezing_drizzle.png) - [Shashank Singh](https://www.flaticon.com/authors/shashank-singh) <img src="./media/freezing_drizzle.png" width="20">
+- Dla Ikony [light_rain.png](./media/light_rain.png) - [Nendra Wahyu](https://www.flaticon.com/authors/nendra-wahyu) <img src="./media/light_rain.png" width="20">
+- Dla Ikony [freezing_rain.png](./media/freezing_rain.png) - [Icon home](https://www.flaticon.com/authors/icon-home) <img src="./media/freezing_rain.png" width="20">
+- Dla Ikony [hail.png](./media/hail.png) - [Freepik](https://www.flaticon.com/authors/freepik) <img src="./media/hail.png" width="20">
+- Dla Ikony [thunderstorm.png](./media/thunderstorm.png) - [Freepik](https://www.flaticon.com/authors/freepik) <img src="./media/thunderstorm.png" width="20">
+- Dla Ikony [humidity.png](./media/humidity.png) - [Freepik](https://www.flaticon.com/authors/freepik) <img src="./media/humidity.png" width="20">
+- Dla Ikony [error.png](./media/error.png) - [hqrloveq](https://flaticon.com/authors/hqrloveq) <img src="./media/error.png" width="20">
+- Dla Ikony [warning.png](./media/warning.png) - [Good Ware](https://www.flaticon.com/authors/good-ware) <img src="./media/warning.png" width="20">
+- Dla Ikony [question.png](./media/question.png) - [Freepik](https://www.flaticon.com/authors/freepik) <img src="./media/question.png" width="20">
+- Dla Ikony [pressure.png](./media/pressure.png) - [shmai](https://www.flaticon.com/authors/shmai) <img src="./media/pressure.png" width="20">
+- Dla Ikony [leaf.png](./media/leaf.png) - [Freepik](https://www.flaticon.com/authors/freepik) <img src="./media/leaf.png" width="20">
+- Dla Ikony [length.png](./media/length.png) - [JunGSa](https://www.flaticon.com/authors/jungsa) <img src="./media/length.png" width="20">

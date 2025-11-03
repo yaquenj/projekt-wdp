@@ -1,0 +1,18 @@
+{
+  "location": {
+    "name": "Rzesz\u00f3w",
+    "country": "Polska",
+    "lat": 50.01900393500514,
+    "lon": 21.99227301775207
+  },
+  "preferences": {
+    "unit": "imperial",
+    "factors": [
+      5,
+      3,
+      2,
+      4,
+      7
+    ]
+  }
+}

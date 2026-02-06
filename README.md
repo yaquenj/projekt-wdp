@@ -14,8 +14,6 @@ Materiały użyte do stworzenia projektu:
 - [Dokumentacja *tkinter*](https://docs.python.org/3/library/tkinter.html)
 - [Ikony *FlatIcon*](https://www.flaticon.com/) (Słowa kluczowe: weather)
 
-**Autor:** Jakub Jaworski, nr alubmu: 183848
-
 ## Aby uruchomić program należy:
 - Zainstalować wszystkie potrzebne biblioteki za pomocą polecenia `python3 -m pip install -r requirements.txt`
 - Uruchomić plik `main.py` za pomocą polecenia `python3 main.py`
